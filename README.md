@@ -1,5 +1,5 @@
  
-  
+  # Kioptrix-3 #
 this Kioptrix VM Image is an easy challenge. The object of the game is to acquire root access via any means possible (except actually hacking the VM server or player). The purpose of these games are to learn the basic tools and techniques in vulnerability assessment and exploitation. There are more ways than one to complete the challenges.
  
 ##  Gain root access on this machine:  ##
